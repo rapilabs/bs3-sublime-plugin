@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+  <label for="${1:theid}" class="col-sm-2">${2}</label>
+  <div class="col-sm-10">
+    ${3:<input type="text" id="${4:theid}" />}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bs3-form:label</tabTrigger>
+</snippet>
